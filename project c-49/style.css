@@ -1,0 +1,15 @@
+body{
+    background-color:#00ffff;
+}
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+
+.origami:hover{
+    transform: scale(1.2);
+}
